@@ -1,0 +1,7 @@
+Planilha Excel para controle de despesas domésticas, incluindo:
+- Uma aba de despesas com colunas: Data | Categoria | Descrição | Valor | Forma de Pagamento | Observações
+- Uma aba SUMÁRIO com totalizadores automáticos de despesas totais e por categoria (usando Tabela Dinâmica)
+- Um gráfico de pizza com participação por categoria
+- Um gráfico de colunas mensais
+
+O arquivo deve estar pronto para o usuário inserir despesas, ver totais e visualizar gráficos de forma intuitiva.
